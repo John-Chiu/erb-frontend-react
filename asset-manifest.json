@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/erb-frontend-react/static/css/main.f920ab07.css",
+    "main.js": "/erb-frontend-react/static/js/main.a04716d5.js",
+    "static/js/453.e2e32d40.chunk.js": "/erb-frontend-react/static/js/453.e2e32d40.chunk.js",
+    "static/media/mount_fuji_night.jpg": "/erb-frontend-react/static/media/mount_fuji_night.14400f4695bf7568e59f.jpg",
+    "static/media/kiyomizu-temple.jpg": "/erb-frontend-react/static/media/kiyomizu-temple.8229ebc35263e1919405.jpg",
+    "static/media/japan_night_city.jpg": "/erb-frontend-react/static/media/japan_night_city.63e8ff25108e051c9d1e.jpg",
+    "static/media/fuji_lake.jpg": "/erb-frontend-react/static/media/fuji_lake.38a212941b05a3326168.jpg",
+    "static/media/logo.svg": "/erb-frontend-react/static/media/logo.4b621a47da5981ed37a9748ebdbbf61c.svg",
+    "index.html": "/erb-frontend-react/index.html",
+    "main.f920ab07.css.map": "/erb-frontend-react/static/css/main.f920ab07.css.map",
+    "main.a04716d5.js.map": "/erb-frontend-react/static/js/main.a04716d5.js.map",
+    "453.e2e32d40.chunk.js.map": "/erb-frontend-react/static/js/453.e2e32d40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f920ab07.css",
+    "static/js/main.a04716d5.js"
+  ]
+}
